@@ -1,0 +1,32 @@
+Breno e Felipe A
+  1 - O que é o Python e como ele se localiza no cenário mundial;
+  2 - Uso do dyr e help como auxiliares do desenvolvedor;
+  3 - Declaração de variáveis (continue trabalhando no notebook que eu comecei);
+  4 - Coleções em Python : Conjuntos (conceitos e todas as formas de interagir com);
+  5 - Módulo collections - Named tuple
+  6 - Módulo collections - Deque
+  
+Jéssica e Vitória
+    1 - Escopo de variáveis (diferenças entre variáveis locais e globais e como acessá-las);
+    2 - Range;
+    3 - Coleções em Python : Listas (conceitos e todas as formas de interagir com);
+    4 - Módulo collections - Counter;
+  
+Mario e Gabriel
+    1 - Tipos de dados (float, int, string, num, bool...);
+    2 - Estruturas de repetição: LOOP FOR
+    3 - Coleções em Python : Tuplas (conceitos e todas as formas de interagir com);
+    4 Módulo collections - default dict;
+  
+Thiago e Allan
+    1 O que é o Pep 8 e boas práticas em Python;
+    2 Estruturas condicionais AND, OR, IS, NOT;
+    3 Coleções em Python : Dicionários (conceitos e todas as formas de interagir com);
+    4 Módulo collections - ordered dict;
+  
+Mayara e Henrique
+    1 Recebendo dados do usuário (input);
+    2 Estruturas lógicas: IF, ELIF, ELSE
+    3 Estruturas de repetição: LOOP WHILE, como usar o break...
+    4 Coleções em Python : Mapas (conceitos e todas as formas de interagir com);
+    
